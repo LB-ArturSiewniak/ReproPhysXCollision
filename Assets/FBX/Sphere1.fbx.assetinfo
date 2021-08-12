@@ -1,0 +1,68 @@
+{
+    "values": [
+        {
+            "$type": "ActorGroup",
+            "name": "Sphere1",
+            "selectedRootBone": "RootNode",
+            "id": "{60FD8D7D-1025-5D00-AD53-1ED96EB72958}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{B6A5AA75-09BA-58AE-A961-C42C859B6966}",
+            "name": "Sphere1",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Sphere.Sphere_1",
+                    "RootNode.Sphere.Sphere_1.transform",
+                    "RootNode.Sphere.Sphere_1.UVMap",
+                    "RootNode.Sphere.Sphere_1.DefaultMaterial"
+                ],
+                "unselectedNodes": [
+                    "RootNode",
+                    "RootNode.Sphere",
+                    "RootNode.Sphere.Sphere_2",
+                    "RootNode.Sphere.Sphere_2.transform",
+                    "RootNode.Sphere.Sphere_2.UVMap",
+                    "RootNode.Sphere.Sphere_2.DefaultMaterial"
+                ]
+            },
+            "export method": 1,
+            "MaterialSlots": [
+                "DefaultMaterial"
+            ],
+            "PhysicsMaterials": [
+                "<Default Physics Material>"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "Sphere1",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.Sphere",
+                    "RootNode.Sphere.Sphere_1",
+                    "RootNode.Sphere.Sphere_2",
+                    "RootNode.Sphere.Sphere_1.transform",
+                    "RootNode.Sphere.Sphere_1.UVMap",
+                    "RootNode.Sphere.Sphere_1.DefaultMaterial",
+                    "RootNode.Sphere.Sphere_2.transform",
+                    "RootNode.Sphere.Sphere_2.UVMap",
+                    "RootNode.Sphere.Sphere_2.DefaultMaterial"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{9379D29D-90B0-520D-9B47-CFB22C401CF1}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

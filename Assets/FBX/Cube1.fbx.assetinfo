@@ -1,0 +1,57 @@
+{
+    "values": [
+        {
+            "$type": "ActorGroup",
+            "name": "Cube1",
+            "selectedRootBone": "RootNode",
+            "id": "{D1CBA3D8-F4AB-5ABF-B9B6-00788FA0A1D1}"
+        },
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{AE5EEB70-8AB9-5A2E-BBBD-8C5EDD0ECF9F}",
+            "name": "Cube1",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Cube.Cube_1"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.Cube",
+                    "RootNode.Cube.Cube_2"
+                ]
+            },
+            "MaterialSlots": [
+                "Material"
+            ],
+            "PhysicsMaterials": [
+                "<Default Physics Material>"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "Cube1",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.Cube",
+                    "RootNode.Cube.Cube_1",
+                    "RootNode.Cube.Cube_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{C3F6D6AB-761D-5C28-B5E8-7E66A174FAB1}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

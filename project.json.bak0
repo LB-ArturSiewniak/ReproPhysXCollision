@@ -1,0 +1,15 @@
+{
+    "project_name": "ReproPhysXCollision",
+    "origin": "The primary repo for ReproPhysXCollision goes here: i.e. http://www.mydomain.com",
+    "license": "What license ReproPhysXCollision uses goes here: i.e. https://opensource.org/licenses/MIT",
+    "display_name": "ReproPhysXCollision",
+    "summary": "A short description of ReproPhysXCollision.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "ReproPhysXCollision"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de"
+}

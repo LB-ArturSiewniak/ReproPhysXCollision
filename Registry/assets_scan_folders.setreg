@@ -1,0 +1,14 @@
+{
+    "Amazon":
+    {
+        "ReproPhysXCollision.Assets":
+        {
+            "SourcePaths":
+            [
+                "Assets",
+                "ShaderLib",
+                "Shaders"
+            ]
+        }
+    }
+}
